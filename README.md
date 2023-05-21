@@ -1,7 +1,7 @@
 ## ABOUT ME 
 - 👋 Hi, I’m Paul Michael, known as [Olecko](https://github.com/olecko) on `Github`
 - 👀 I’m a **Software Engineering student at ALX**.
-- 🌱 I’m interested in `Cyber Security`, `Software Development`, `AI`, and `1Blockchain`.
+- 🌱 I’m interested in `Cyber Security`, `Software Development`, `AI`, and `Blockchain`.
 - ❤ I love writing, I am a `Journalist by practice` and a `Criminologist by profession`. However, I am diversifying into `Tech`.
 - 💞️ I’m looking to collaborate on building `security softwares` and projects that provide real time defence for security and media agencies.
 
